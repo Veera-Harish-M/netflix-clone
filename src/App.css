@@ -1,0 +1,8 @@
+.App {
+  background-color: black;
+  min-height: 100vh;
+  overflow: hidden;
+}
+h2 {
+  font-size: 1.5rem;
+}
